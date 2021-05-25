@@ -19,12 +19,4 @@
 # 2-3. 웹 사이트 주요기능
 ![image](https://user-images.githubusercontent.com/84116509/119462913-318f4780-bd7c-11eb-9d71-0bcc52c6e2e2.png)
 
-
-#2-4. 설계와 구현상 제약 조건
-	반드시 사용해야 할 기술: node.js, Tensorflow.js, Firebase, WebRTC
-	사용하지 말아야 할 기술:  
-	설계 도구: 파워포인트
-	개발 도구: Bootstrap, JDK, jQuery, JRE, Eclipse, JDBC, Github
-	개발 언어: Java, Python
-	데이터베이스: SQL+
-	준수해야할 개발 규칙(프로그래밍 가이드, 오류코드 가이드) :
+# 2-4.설계와 구현상 제약 조건
