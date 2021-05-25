@@ -8,3 +8,23 @@
 # 1-2. 프로젝트의 범위 
 본 프로젝트의 결과물은 온라인 시험의 부정행위를 예방하고 적발하는것을 메인으로 하는 PC용 프로그램이다. 하지만 부정행위 예방과 적발 이외에도 강의 또는 회의에 이용될 수 있는 프로그램으로 제작할 예정이며, PC외 안드로이드나 ios용 모바일 프로그램에서의 활용안은 PC용 프로그램이 안정화 되고 난 후 개발할 계획이다. 이에 따라 옵저버 웹 사이트의 사용자들은 시험, 강의, 회의와 같은 기본 기능들을 이용할 수 있을 것으로 예상된다. 
 프로젝트 완료시 결과물을 호서대학교에 적용시키는것을 우선으로 하여, 유지 보수를 통해 점점 확대해 나갈 계획이다. 
+
+# 2. 전체설명
+# 2-1. 시스템구성
+![image](https://user-images.githubusercontent.com/84116509/119462310-8b434200-bd7b-11eb-9bd0-746607dc88b7.png)
+
+# 2-2. 프로그램 내 주요기능
+![image](https://user-images.githubusercontent.com/84116509/119462473-ba59b380-bd7b-11eb-8123-739efaa03fef.png)
+
+# 2-3. 웹 사이트 주요기능
+![image](https://user-images.githubusercontent.com/84116509/119462913-318f4780-bd7c-11eb-9d71-0bcc52c6e2e2.png)
+
+
+#2-4. 설계와 구현상 제약 조건
+	반드시 사용해야 할 기술: node.js, Tensorflow.js, Firebase, WebRTC
+	사용하지 말아야 할 기술:  
+	설계 도구: 파워포인트
+	개발 도구: Bootstrap, JDK, jQuery, JRE, Eclipse, JDBC, Github
+	개발 언어: Java, Python
+	데이터베이스: SQL+
+	준수해야할 개발 규칙(프로그래밍 가이드, 오류코드 가이드) :
